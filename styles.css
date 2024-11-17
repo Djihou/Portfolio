@@ -3634,6 +3634,7 @@ textarea.form-control-lg {
   color: var(--bs-nav-link-color);
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+ 
 }
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
@@ -11595,6 +11596,9 @@ html {
   max-height: 40rem;
   max-width: 40rem;
 }
+
+
+
 .profile .profile-img {
   height: 80vw;
   max-height: 45rem;
